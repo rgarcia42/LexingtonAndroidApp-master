@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="R:\Documents\LexingtonAndroidApp-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8f11f56e350eacabf2273f646d981356eea0ed77">
+        <dex dex="R:\Documents\LexingtonAndroidApp-master\app\build\intermediates\pre-dexed\debug\classes-e2e338e8aa7ac10f176c2fe11784f2e0cf1f380c.jar" />
+    </item>
+    <item
+        jar="R:\Documents\LexingtonAndroidApp-master\app\libs\zbar.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0a7b88ba1496a0b4af76069ad40dacd3897149e0">
+        <dex dex="R:\Documents\LexingtonAndroidApp-master\app\build\intermediates\pre-dexed\debug\zbar-ff63c93c21722428c5c141949b219a6804b15b04.jar" />
+    </item>
+    <item
+        jar="R:\Documents\android-sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="R:\Documents\LexingtonAndroidApp-master\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-430461d6bd102d1423076841aab53892269d99f0.jar" />
+    </item>
+
+</items>

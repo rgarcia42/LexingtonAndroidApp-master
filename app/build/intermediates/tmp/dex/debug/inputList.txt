@@ -1,0 +1,4 @@
+R:\Documents\LexingtonAndroidApp-master\app\build\intermediates\classes\debug
+R:\Documents\LexingtonAndroidApp-master\app\build\intermediates\pre-dexed\debug\zbar-ff63c93c21722428c5c141949b219a6804b15b04.jar
+R:\Documents\LexingtonAndroidApp-master\app\build\intermediates\pre-dexed\debug\classes-e2e338e8aa7ac10f176c2fe11784f2e0cf1f380c.jar
+R:\Documents\LexingtonAndroidApp-master\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-430461d6bd102d1423076841aab53892269d99f0.jar

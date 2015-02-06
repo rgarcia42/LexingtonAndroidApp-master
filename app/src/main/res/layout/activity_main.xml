@@ -1,0 +1,37 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.capstone.Lexington.MainActivity$PlaceholderFragment">
+
+    <android.support.v4.view.ViewPager xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/pager"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        tools:context="com.capstone.Lexington.MainActivity" />
+    <LinearLayout
+        android:id="@+id/previewBar"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/preview_background"
+        android:tileMode="repeat"
+        android:dither="true">
+        <ImageView
+            android:id="@+id/previewImage"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:cropToPadding="false"
+            android:src="@drawable/ic_launcher"/>
+        <TextView
+            android:id="@+id/previewDesc"
+            android:textColor="#666"
+            android:textSize="25dp"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:gravity="center"/>
+        </LinearLayout>
+
+    </LinearLayout>

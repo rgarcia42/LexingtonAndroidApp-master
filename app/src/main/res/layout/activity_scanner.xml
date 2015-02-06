@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical">
+    <FrameLayout 
+	    android:id="@+id/cameraPreview"
+	    android:layout_width="fill_parent"
+	    android:layout_height="fill_parent">
+	</FrameLayout>
+	<LinearLayout     
+	    android:layout_width="fill_parent"
+    	android:layout_height="fill_parent"
+    	android:orientation="vertical">
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="bottom|center_horizontal"
+            android:paddingTop="75dp"
+            android:text="Aim center of screen at QR code to scan"
+            android:textColor="#ddd"
+            android:textSize="18sp" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="70dp"
+            android:src="@drawable/scan_overlay" />
+
+     </LinearLayout>
+</RelativeLayout>
